@@ -9,8 +9,8 @@
 
 > También facilita tareas como:
 >> - consultas frecuentes
-   - soporte técnico
-   - envío de información automática
+>> - soporte técnico
+>> - envío de información automática
 
 > Si se integra inteligencia artificial, el chatbot puede comprender mejor las consultas y ofrecer respuestas más naturales y personalizadas.
 
