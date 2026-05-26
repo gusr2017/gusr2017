@@ -1,6 +1,6 @@
 ## Chatbot 👋
 
-<img width="2501" height="2501" alt="WhatsApp_Logo_2-1" src="https://github.com/user-attachments/assets/d83b13ad-3c17-4953-b8db-7a2e6e4bc61b" />
+<img width="1501" height="1501" alt="WhatsApp_Logo_2-1" src="https://github.com/user-attachments/assets/d83b13ad-3c17-4953-b8db-7a2e6e4bc61b" />
 
 
 > La implementación de un chatbot para WhatsApp se justifica por la necesidad de automatizar la atención al cliente y mejorar la comunicación entre una empresa y sus usuarios. Actualmente, muchas personas utilizan WhatsApp como principal medio de contacto, por lo que integrar un sistema automático permite brindar respuestas rápidas, eficientes y disponibles las 24 horas del día.
