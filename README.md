@@ -1,4 +1,4 @@
-## Chatbot SUMAR La Rioja - Argentina👋 - <img width="60" height="58" alt="images (1)" src="https://github.com/user-attachments/assets/f2890835-1254-459a-905a-a1293c96f709" /> - <img width="60" height="60" alt="WhatsApp_Logo_2-1" src="https://github.com/user-attachments/assets/d83b13ad-3c17-4953-b8db-7a2e6e4bc61b" /> - <img width="60" height="45" alt="images (2)" src="https://github.com/user-attachments/assets/f3319b62-1cef-48bc-8dab-f898c9ba2c10" />
+## Chatbot SUMAR La Rioja - Argentina - <img width="60" height="58" alt="images (1)" src="https://github.com/user-attachments/assets/f2890835-1254-459a-905a-a1293c96f709" /> <img width="60" height="60" alt="WhatsApp_Logo_2-1" src="https://github.com/user-attachments/assets/d83b13ad-3c17-4953-b8db-7a2e6e4bc61b" /> <img width="80" height="60" alt="images (2)" src="https://github.com/user-attachments/assets/f3319b62-1cef-48bc-8dab-f898c9ba2c10" />
 
 
 
