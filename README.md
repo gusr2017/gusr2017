@@ -1,8 +1,6 @@
 
-## SUMAR La Rioja - Argentina
+## SUMAR+ - La Rioja - Argentina
 <img width="60" height="58" alt="images (1)" src="https://github.com/user-attachments/assets/f2890835-1254-459a-905a-a1293c96f709" /> <img width="60" height="60" alt="WhatsApp_Logo_2-1" src="https://github.com/user-attachments/assets/d83b13ad-3c17-4953-b8db-7a2e6e4bc61b" /> <img width="80" height="60" alt="images (2)" src="https://github.com/user-attachments/assets/f3319b62-1cef-48bc-8dab-f898c9ba2c10" /> <img width="58" height="60" alt="postgresql" src="https://github.com/user-attachments/assets/29b17651-e854-4e26-b51d-85b960a29cc4" /> <img width="60" height="60" alt="laravel" src="https://github.com/user-attachments/assets/0013b08b-5cdf-4cee-92e1-1a7efbdf618a" /> <img width="120" height="60" alt="filament" src="https://github.com/user-attachments/assets/a73715a8-0421-4911-bf22-09fce1ea5578" /> <img width="60" height="60" alt="Unofficial_JavaScript_logo_2 svg" src="https://github.com/user-attachments/assets/30870fb3-3abb-44bf-8f4e-98d77a0eec79" /> <img width="60" height="60" alt="visual-studio-code-logo-png_seeklogo-323431" src="https://github.com/user-attachments/assets/296d58f5-ccca-409f-a0a3-1239d56a1337" /> <img width="60" height="60" alt="markdown" src="https://github.com/user-attachments/assets/dd080aa8-bf8f-4e91-b409-529bc1302607" />
-
-
 > La implementación de un chatbot para WhatsApp se justifica por la necesidad de automatizar la atención al cliente y mejorar la comunicación entre una empresa y sus usuarios. Actualmente, muchas personas utilizan WhatsApp como principal medio de contacto, por lo que integrar un sistema automático permite brindar respuestas rápidas, eficientes y disponibles las 24 horas del día.
 
 > Además, un chatbot reduce el tiempo de espera, optimiza recursos humanos y permite atender múltiples consultas simultáneamente sin intervención constante de un operador. Esto mejora la experiencia del usuario y aumenta la productividad de la organización.
