@@ -8,13 +8,13 @@
 > Además, un chatbot reduce el tiempo de espera, optimiza recursos humanos y permite atender múltiples consultas simultáneamente sin intervención constante de un operador. Esto mejora la experiencia del usuario y aumenta la productividad de la organización.
 
 > También facilita tareas como:
->> consultas frecuentes,
->> soporte técnico,
->> envío de información automática.
+>> - consultas frecuentes
+   - soporte técnico
+   - envío de información automática
 
-Si se integra inteligencia artificial, el chatbot puede comprender mejor las consultas y ofrecer respuestas más naturales y personalizadas.
+> Si se integra inteligencia artificial, el chatbot puede comprender mejor las consultas y ofrecer respuestas más naturales y personalizadas.
 
-Por estas razones, un chatbot para WhatsApp representa una solución tecnológica moderna, accesible y eficiente para mejorar la atención y automatización de servicios.
+> Por estas razones, un chatbot para WhatsApp representa una solución tecnológica moderna, accesible y eficiente para mejorar la atención y automatización de servicios.
 
 <!--
 **gusr2017/gusr2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
